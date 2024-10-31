@@ -1,1 +1,1 @@
-echo "Deploying to server $server with username $username"
+echo "Deploying to server $1 with username $2"
